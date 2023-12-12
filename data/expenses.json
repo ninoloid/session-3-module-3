@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "date": "2023-12-12T12:58:10.460Z",
+    "name": "Beli Chitato",
+    "nominal": 15000,
+    "category": "Jajan"
+  },
+  {
+    "id": 3,
+    "date": "2023-12-12T13:16:36.109Z",
+    "name": "Beli Yupi",
+    "nominal": 6000,
+    "category": "Ngemil"
+  },
+  {
+    "id": 4,
+    "date": "2023-12-12T13:19:55.168Z",
+    "name": "Beli Coca Cola",
+    "nominal": 6000,
+    "category": "Minum"
+  },
+  {
+    "id": 5,
+    "date": "2023-12-12T13:20:44.585Z",
+    "name": "Beli Starbucks",
+    "nominal": 60000,
+    "category": "Nongkrong"
+  },
+  {
+    "id": 6,
+    "date": "2023-12-12T13:21:42.392Z",
+    "name": "Beli Cheetos",
+    "nominal": 11000,
+    "category": "Jajan"
+  }
+]
